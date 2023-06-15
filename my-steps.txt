@@ -131,13 +131,19 @@ $ mkdir Drinks
 $ rm -r Drinks/
 
 ### Step 4
-
+$ cd Grand\ Circus\ Projects/Unit1-Git-Practice/
+$ git init
+$ git add .
+$ git commit -m "First Commit for deliverable unit 1"
 
 ### Step 5
-
+$ git remote add origin https://github.com/Desiree-Laleman/Deliverable-Unit-1-Git-Practice.git
+$ git branch -M main
 
 ### Step 6
-
+$ git add .
+$ git commit -m "Adding Menu"
+$ git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
